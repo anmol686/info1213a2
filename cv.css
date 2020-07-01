@@ -1,0 +1,65 @@
+body{
+	background: url(https://wallpaperaccess.com/full/1491559.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+	font-family: 'Slabo 27px', serif;
+}
+
+nav{
+	background: url(https://wallpaperaccess.com/full/1491559.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.cv{
+	background: url(https://wallpaperaccess.com/full/1491559.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+.jumbotron{
+	background: #FAEBEFFF;
+	color: black;
+}
+
+.dropdown-menu{
+    background: url(https://wallpaperaccess.com/full/1491559.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+    border:none;
+}
+
+.dropdown-item{
+	color: white;
+}
+
+#btnAbout{
+	background: #00FFEF;
+	outline: none; 
+}
+
+#btnHire{
+	outline-color: #00FFEF;
+}
+
+i{
+	color:#00FFEF;
+}
+
+#Aboutme, .carousel-caption, #footer{
+	color:#000000;
+}
+
+.fi{
+	color:#0080FF;
+}
+
+
+
+

@@ -1,0 +1,73 @@
+body{
+    background: url(https://wallpaperaccess.com/full/1491559.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Slabo 27px', serif;
+}
+
+nav{
+    background: url(https://wallpaperaccess.com/full/1491559.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.cv{
+    background: url(https://wallpaperaccess.com/full/1491559.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.jumbotron{
+    background: #FAEBEFFF;
+    color: black;
+}
+
+.dropdown-menu{
+    background: url(https://wallpaperaccess.com/full/1491559.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+    border:none;
+}
+
+.heading, .dropdown-item{
+    color: white;
+}
+
+#education .card{
+    width: 16rem;
+}
+
+
+.fi{
+    color:#0080FF;
+}
+
+#maincontainer{
+    width:100%;
+    height: 100%;
+}
+
+#leftcolumn{
+    display:inline-block;
+    width: 35%;
+    height: 100%;
+}
+
+#contentwrapper{
+    display:inline-block;
+    width:45%;
+    height: 100%;
+}
+
+#subject, #message{
+    width: 80%;
+}
+
+#mine{
+    border: none;
+    font-size: 1.5rem
+}
